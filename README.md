@@ -2,8 +2,9 @@
 
 A Typed Racket interface for generating RISC-V assembly.
 
-
 Given a list of instructions and macros, each macro expands into multiple base instructions.
+
+I wrote something like this before, [ASMLisp](https://github.com/schreiberbrett/ASMLisp), when I was a college senior.
 
 
 ## Calling Convention
